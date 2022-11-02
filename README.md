@@ -1,3 +1,2 @@
 #Learning GIT
-### Fredrik N Beilegaard
-
+### Fredrik Nerol Beilegaard
